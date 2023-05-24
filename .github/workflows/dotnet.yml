@@ -33,4 +33,4 @@ jobs:
       with:
         name: webapp
         path: website/**
-        if-no-files-found: war
+        if-no-files-found: warn
